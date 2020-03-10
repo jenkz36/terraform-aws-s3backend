@@ -4,3 +4,4 @@ terraform {
     aws    = "~> 2.19"
     random = "~> 2.1"
     }
+}
